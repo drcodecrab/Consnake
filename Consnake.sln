@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consnake", "Consnake\Consnake.csproj", "{FBC8FCF2-17C7-4A20-B73F-5519A14D8F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC8FCF2-17C7-4A20-B73F-5519A14D8F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC8FCF2-17C7-4A20-B73F-5519A14D8F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC8FCF2-17C7-4A20-B73F-5519A14D8F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC8FCF2-17C7-4A20-B73F-5519A14D8F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644C9BAD-13B4-4D2E-B865-EE8D86DCCB55}
+	EndGlobalSection
+EndGlobal
