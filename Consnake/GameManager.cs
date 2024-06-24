@@ -157,7 +157,7 @@ namespace Consnake
         {
             Console.WriteLine("\x1b[37mConsnake by Codecrab");
             map.Draw();
-            Console.WriteLine("\n"+ "\x1b[37mSchlangenlaenge: " + schlange.points.Count);
+            Console.WriteLine("\n"+ "\x1b[37mSchlangenlaenge: " + schlange.points.Count + "");
         }
 
     }
